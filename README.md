@@ -1,4 +1,4 @@
-## 👋 Hi, I'm ABDIRIZAK MOALIM!
+## 👋 Hi, I'm Ahmed Adam Isak!
 
 🚀 **Full-Stack Developer | WordPress Expert | Open-Source Enthusiast**
 
