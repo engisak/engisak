@@ -43,7 +43,7 @@ I'm a dedicated full-stack developer with expertise in WordPress development and
 
 ## 📬 Let's Connect!
 
-- **GitHub:** [engisak](https://github.com/engisak)
+- **GitHub:** [engisak](https://www.linkedin.com/in/ahmedisak/)
 - **Email:** mrisak192@gmail.com
 
 ---
