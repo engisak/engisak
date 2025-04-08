@@ -1,27 +1,53 @@
-### Hi there, I'm Ahmed Isak! 👋
+## 👋 Hi, I'm ABDIRIZAK MOALIM!
 
-I am a **Software Engineer** with a strong passion for developing scalable, high-performance web applications and modern digital solutions. My expertise spans across frontend, backend, and database technologies, ensuring seamless user experiences and efficient system architectures.
+🚀 **Full-Stack Developer | WordPress Expert | Open-Source Enthusiast**
 
----
-
-### 🔹 Technical Expertise
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **Backend Development**: Node.js, PHP (Laravel)
-- **Database Management**: MongoDB, MySQL
-- **Version Control**: Git & GitHub
-- **API Development**: RESTful APIs, GraphQL
-- **Deployment & DevOps**: Docker, CI/CD, Cloud Services
+I'm a dedicated full-stack developer with expertise in WordPress development and custom web solutions. I enjoy crafting dynamic, user-friendly, and scalable web applications. My passion lies in writing clean, efficient code and solving real-world problems through technology.
 
 ---
 
-### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engisak&show_icons=true&theme=radical)
+## 🛠️ My Tech Stacks
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engisak&layout=compact&theme=radical)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=flat&logo=wordpress)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedisak)
 
-🚀 **Open to exciting opportunities, collaborations, and continuous learning in the tech industry!**
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=engisak&theme=juicyfresh&no-bg=true" />
+</p>
+
+---
+
+## 💡 My Development Workflow:
+
+- 🔄 **Plan & Research** – Understanding requirements and defining the best approach
+- 🛠 **Design & Prototype** – Creating wireframes and UI mockups
+- 👨‍💻 **Develop & Code** – Writing clean, efficient, and scalable code
+- 📊 **Test & Optimize** – Ensuring performance, security, and responsiveness
+- 🚀 **Deploy & Maintain** – Launching applications and keeping them updated
+
+---
+
+## 📬 Let's Connect!
+
+- **GitHub:** [engisak](https://github.com/engisak)
+- **Email:** mrisak192@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> Stay awesome and keep coding!
+</p>
